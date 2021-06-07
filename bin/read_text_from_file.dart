@@ -3,7 +3,7 @@ import 'dart:convert';
 
 Future<void> main() async {
   var source =
-      '/home/dreamploy/Projects/Temp/read_text_from_file/assets/medical_suply.txt';
+      '/home/dreamploy/Projects/Temp/read_text_from_file/assets/oparetions.txt';
   // var destination = '/home/dreamploy/Projects/Temp/read_text_from_file/assets/hi2.txt';
 
   var file = File(source);
