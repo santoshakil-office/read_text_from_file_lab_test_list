@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "read_text_from_file",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
